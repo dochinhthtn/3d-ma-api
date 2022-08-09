@@ -5,7 +5,7 @@
             "key": "baseUrl",
             "type": "string",
             "name": "string",
-            "value": "http:\/\/127.0.0.1:8000"
+            "value": "http:\/\/mat-3d-ma-server.herokuapp.com"
         }
     ],
     "info": {
